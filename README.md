@@ -5,8 +5,9 @@
 </p>
 
 <br>
+
 <p align="center">
-В работе тестировщика для меня важно владеть современными инструментами и технологиями, которые помогают качественно проверять продукт на всех уровнях — от интерфейсов до интеграций и мониторинга.
+  В работе тестировщика для меня важно владеть современными инструментами и технологиями, которые помогают качественно проверять продукт на всех уровнях — от интерфейсов до интеграций и мониторинга.
 </p>
 
 <h2 align="center">🛠️ Тестирование API и интеграций</h2>
@@ -149,21 +150,40 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/sergej-chat_net.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/sergej-chat_net.png)
+<h2 align="center">🪴 Практика и стажировка</h2>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/sergej-chat_net.png">
+    <img src="/sergej-chat_net.png" width="280px" alt="Сертификат об окончании стажировки">
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🎒 Образование</h2>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/diplom.png">
+    <img src="/diplom.png" width="280px" alt="Диплом">
+  </a>
+  <a href="https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/Letter.png">
+    <img src="/Letter.png" width="280px" alt="Рекомендательное письмо">
+  </a>
+</p>
 
 <br>
 
-## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/diplom.png)
-[<img src="/Letter.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/Letter.png)
+<h2 align="center">🤝 Контакт</h2>
+
+<p align="center">
+  <a href="mailto:its.done.its.work@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/sergey_tsepa">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+<!-- Документация по виджетам контактов ↑↑ https://shields.io/badges -->
 
 <br>
-<br>
-
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:its.done.its.work@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sergey_tsepa)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
