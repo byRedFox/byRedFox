@@ -157,7 +157,7 @@
 
 ## 🎒 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/diplom.png)
-[<img src="/Letter.pdf" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/byRedFox/byRedFox/65be7ec6f3457dd2a5aa67371ac9aab36f682cdc/Letter.pdf)
+[<img src="/Letter.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/Letter.png)
 
 <br>
 <br>
