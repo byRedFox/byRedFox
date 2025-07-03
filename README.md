@@ -1,17 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9;%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+QA+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%BB%D0%B8%D1%81%D1%82!)](https://git.io/typing-svg)
 
-## 📊 Статистика
-
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
-
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
-
 <br>
 
 ## Тестирование API и интеграций
