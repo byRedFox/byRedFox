@@ -150,14 +150,14 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/sergej-chat_net.png)
+[<img src="/sergej-chat_net.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/sergej-chat_net.png)
 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/diplom.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/byRedFox/byRedFox/65be7ec6f3457dd2a5aa67371ac9aab36f682cdc/Letter.pdf)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/byRedFox/byRedFox/refs/heads/main/diplom.png)
+[<img src="/Letter.pdf" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/byRedFox/byRedFox/65be7ec6f3457dd2a5aa67371ac9aab36f682cdc/Letter.pdf)
 
 <br>
 <br>
